@@ -24,15 +24,6 @@ This is a **JavaScript-based Library Management System** that allows users to **
  ├── 📄 README.md       # Project Documentation
 ```
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/Library-Management-System.git
-   ```
-2. Open the project folder.
-3. Open `index.html` in a browser (if applicable) or run `script.js` in a JavaScript environment.
-4. Manage books by adding, borrowing, returning, and generating reports.
-
 ## 📊 Library Report Example
 ```
 Total Books: 10
